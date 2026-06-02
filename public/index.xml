@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>CXCR6</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/CXCR6</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/CXCR6</guid>
+    <description><![CDATA[ La déplétion de CXCR6 par KO affecte le nombre de TRM dans les tissus, et les cellules KO sont retrouvées en plus grand nombre dans le sang et les organes lymphoïdes secondaires Mathew_JExpMed_2026. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>Effector_Memory cell formation</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/Effector_Memory-cell-formation</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/Effector_Memory-cell-formation</guid>
+    <description><![CDATA[ Dans une infection secondaire, les TRM sont important pour la formation d’une réponse mémoire systémique passant par la formation de TEM exHOBIT Behr_NatImmunol_2020. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>Exhaustion</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/Exhaustion</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/Exhaustion</guid>
+    <description><![CDATA[ L’épuisement a été étudié de manière épigénétique par Philip_Nature_2017, en utilisant un modèle de priming avec une infection avec LM exprimant un antigène dérivé de SV40, puis de cancer du foie exprimant le même antigène inductilbe par traitement au tamoxifène. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>Method</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/Method</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/Method</guid>
+    <description><![CDATA[ Les TRM sont des cellules résidentes au sein des tissus. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>Other Memory and Effector Subsets</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/Other-Memory-and-Effector-Subsets</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/Other-Memory-and-Effector-Subsets</guid>
+    <description><![CDATA[ List of used references LIST FLATTEN file.outlinks AS outlink WHERE file.link = this.file.link AND contains(outlink.file.outlinks, this.file.link) GROUP BY outlink List of references still to be used LIST FROM &quot;&quot; WHERE contains(file.outlinks, this.file.link) AND !contains(this.file.outlink... ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>TRM Autoimmune diseases</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/TRM-Autoimmune-diseases</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/TRM-Autoimmune-diseases</guid>
+    <description><![CDATA[ Les TRM sont des cellules hautement fonctionnelles et présentes en forte quantité au sein de nombreux tissus. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>TRM Cancer</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/TRM-Cancer</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/TRM-Cancer</guid>
+    <description><![CDATA[ Note : Au cours des travaux sur cette thèse, deux articles importants ont proposé un changement de paradigme sur la façon d’interpréter les TRM dans le cadre de cancer. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>TRM Differenciation</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/TRM-Differenciation</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/TRM-Differenciation</guid>
+    <description><![CDATA[ La différenciation des lymphocytes T en TRM est un phénomène complexe et largement étudié pendant les dernières années. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>TRM Effector</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/TRM-Effector</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/TRM-Effector</guid>
+    <description><![CDATA[ Paradigme sur le rôle des populations de lymphocytes mémoires dans le contrôle de l’infection Le paradigme suggère que les TRM servent de barrière contre les pathogènes, tandis que les TCM permettent de renforcer la réponse immunitaire à distance, depuis les SLOs. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item><item>
+    <title>TRM Epigenetic</title>
+    <link>https://quartz.jzhao.xyz/1_Categories/TRM-Epigenetic</link>
+    <guid>https://quartz.jzhao.xyz/1_Categories/TRM-Epigenetic</guid>
+    <description><![CDATA[ L’épigénétique permet la régulation de l’expression des gènes en contrôlant l’accessibilité de ceux-ci par la machinerie transcriptionnelle. ]]></description>
+    <pubDate>Mon, 25 May 2026 09:37:55 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
